@@ -1,0 +1,18 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "Times Newroman";
+    font-weight: bold;
+    color: rgb(255, 255, 170);
+}
+body {background-color: rgb(255, 193, 255);}
+li{list-style-type: none;
+  background-color: beige;
+  border: 1px solid rgb(236, 179, 236);
+  padding-right: 1px;
+  }
+  li{display: inline-block;
+  }
+  ul{text-align: left;}
+pre{ font-family:'Times New Roman', Times, serif;}
